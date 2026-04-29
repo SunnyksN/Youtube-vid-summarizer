@@ -1,4 +1,4 @@
-streamlit
+flask
 youtube-transcript-api
 langchain
 langchain-ollama
