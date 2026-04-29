@@ -1,0 +1,9 @@
+streamlit
+youtube-transcript-api
+langchain
+langchain-ollama
+faiss-cpu
+sentence-transformers
+fastapi
+unicorn
+openai
