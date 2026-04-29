@@ -5,5 +5,5 @@ langchain-ollama
 faiss-cpu
 sentence-transformers
 fastapi
-unicorn
+gunicorn
 openai
